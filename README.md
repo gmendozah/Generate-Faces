@@ -31,7 +31,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 Generated faces after 150 epochs.
 
-![](assets/results_with_150_epochs.jpg)
+![](assets/results_with_30_epochs.jpg)
 
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
