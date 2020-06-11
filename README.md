@@ -21,7 +21,7 @@ jupyter notebook dlnd_face_generation.ipynb
 
 or
 ```bash
-jupyter notebook dlnd_face_generation.ipynb.ipynb
+jupyter notebook dlnd_face_generation.ipynb
 ```
 
 on any Jupyter Notebook.
